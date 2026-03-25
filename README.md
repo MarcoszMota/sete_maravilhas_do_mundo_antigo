@@ -1,15 +1,30 @@
 # As Sete Maravilhas do Mundo Antigo
-## Apresentação das sete maravilhas do mundo
-### Objetivo
+## Style Guide
+### Configuração e Padrões de CSS
 ```
-O site apresenta um resumo para cada uma das sete maravilhas do mundo antigo, reunindo informações essenciais sobre
-cada uma delas. Aqui você encontrará detalhes como localização, principais características e curiosidades históricas.
-O objetivo é oferecer uma visão clara e acessível dessas construções impressionantes. Assim, você poderá conhecer melhor
-a importância e o legado de cada maravilha.
+- Será utilizado bootstrap ou css puro?
+- Quais são as regras para aplicar no CSS?
+  - Como serão os nomes?
+  - Vai usar alguma pattern CSS? Consulte na net sobre BEM CSS.
+  - Serão utilizadas as cores com qual nomeclatura? hexadecimal, nome das cores, hsl, rgb, rgba?
+  - Será utilizado :root{ }?
+  - Comentários?
+  - Espaços em branco ou tabs para indentação?
 ```
-### Ferramentas utilizadas
+### Regras para criar em JavaScript
 ```
-Linguagem JavaScript
-- HTML
-- CSS
+- Variáveis
+- Funções
+- Classes
+- Objetos
+- Comentários?
+- Como será o evento de clique do javascript? direto no html  com onclick ou pelo addEventListener?
+```
+### Estrutura HTML
+```
+- Vai utilizar <br>?
+- Vai utiilzar layout fixo ou fluido?
+- Quais serão os breakpoints responsivos utilizados? O layout ficará responsivo somente na transição de tela entre mobile e desktop? ou vai abranger outro tamanho de tela?
+- Discuta com o grupo e anote no markdown o nome das páginas que serão criadas.
+- Adicione ao markdown o tema de cores que será utilizado no site
 ```
