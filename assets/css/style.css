@@ -1,0 +1,23 @@
+.navbar {
+    border-bottom: 1px solid grey;
+}
+
+.nav-link {
+    color: black;
+}
+
+.carousel {
+    width: 90%;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 80vh;      /* altura relativa à tela */
+    object-fit: cover; /* corta sem deformar */
+    margin: 0 auto;
+}
+
+.carousel-inner {
+  border-radius: 15px;
+  overflow: hidden;
+}
